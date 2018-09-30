@@ -1,0 +1,6 @@
+D:\Павел\Domrabota\okrazhnost\bin\Debug\okrazhnost.exe.config
+D:\Павел\Domrabota\okrazhnost\bin\Debug\okrazhnost.exe
+D:\Павел\Domrabota\okrazhnost\bin\Debug\okrazhnost.pdb
+D:\Павел\Domrabota\okrazhnost\obj\Debug\okrazhnost.csproj.CoreCompileInputs.cache
+D:\Павел\Domrabota\okrazhnost\obj\Debug\okrazhnost.exe
+D:\Павел\Domrabota\okrazhnost\obj\Debug\okrazhnost.pdb

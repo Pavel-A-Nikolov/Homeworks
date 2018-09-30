@@ -1,0 +1,7 @@
+D:\Павел\Domrabota\triagalnik\bin\Debug\triagalnik.exe.config
+D:\Павел\Domrabota\triagalnik\bin\Debug\triagalnik.exe
+D:\Павел\Domrabota\triagalnik\bin\Debug\triagalnik.pdb
+D:\Павел\Domrabota\triagalnik\obj\Debug\triagalnik.csprojAssemblyReference.cache
+D:\Павел\Domrabota\triagalnik\obj\Debug\triagalnik.csproj.CoreCompileInputs.cache
+D:\Павел\Domrabota\triagalnik\obj\Debug\triagalnik.exe
+D:\Павел\Domrabota\triagalnik\obj\Debug\triagalnik.pdb
